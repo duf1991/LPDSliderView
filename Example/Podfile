@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LPDSliderView_Example' do
+  pod 'LPDSliderView', :path => '../'
+
+  target 'LPDSliderView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
