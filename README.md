@@ -26,6 +26,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
     
 
 }
+
 #pragma mark -- LPDSliderView代理方法
 //随时监听滑块的滑动位置
 - (void)sliderValueChanged:(LPDSliderView *)sender {
