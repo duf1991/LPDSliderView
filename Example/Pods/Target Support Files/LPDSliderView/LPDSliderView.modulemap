@@ -1,0 +1,6 @@
+framework module LPDSliderView {
+  umbrella header "LPDSliderView-umbrella.h"
+
+  export *
+  module * { export * }
+}

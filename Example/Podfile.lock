@@ -1,0 +1,16 @@
+PODS:
+  - LPDSliderView (0.1.0)
+
+DEPENDENCIES:
+  - LPDSliderView (from `../`)
+
+EXTERNAL SOURCES:
+  LPDSliderView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LPDSliderView: 7612fe5f19a7754c9592505a3bd5832dc835add5
+
+PODFILE CHECKSUM: 40090043b331c6b6534b91329a8fb73c1124ff93
+
+COCOAPODS: 1.2.1
