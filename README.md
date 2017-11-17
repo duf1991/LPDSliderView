@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/LPDSliderView.svg?style=flat)](http://cocoapods.org/pods/LPDSliderView)
 [![License](https://img.shields.io/cocoapods/l/LPDSliderView.svg?style=flat)](http://cocoapods.org/pods/LPDSliderView)
 [![Platform](https://img.shields.io/cocoapods/p/LPDSliderView.svg?style=flat)](http://cocoapods.org/pods/LPDSliderView)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jstriebel/badges)
 
 由于业务需求，需要在项目中加入滑动控件，但在网上搜索一番发现并没有比较合适的资源，要么过于陈旧，还是采用 touchBegan 等方法实现，过于繁琐且效果不佳，要么达不到业务要求，因此决定自己定制一个滑动控件。
 
