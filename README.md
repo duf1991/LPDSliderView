@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/LPDSliderView.svg?style=flat)](http://cocoapods.org/pods/LPDSliderView)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)]()
 ![](https://img.shields.io/cocoapods/dt/LPDSliderView.svg)
-![](https://img.shields.io/badge/language-Objective-C-orange.svg)
+![](https://img.shields.io/badge/language-ObjectiveC-orange.svg)
 
 
 
