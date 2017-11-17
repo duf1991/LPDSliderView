@@ -1,6 +1,6 @@
 # LPDSliderView
 
-[![CI Status](https://img.shields.io/travis/Du%20Yingfeng/LPDSliderView.svg?style=flat)](https://travis-ci.org/Du%20Yingfeng/LPDSliderView)
+[![CI Status](https://travis-ci.org/duf1991/LPDSliderView.svg?branch=master)
 [![Version](https://img.shields.io/cocoapods/v/LPDSliderView.svg?style=flat)](http://cocoapods.org/pods/LPDSliderView)
 [![License](https://img.shields.io/cocoapods/l/LPDSliderView.svg?style=flat)](http://cocoapods.org/pods/LPDSliderView)
 [![Platform](https://img.shields.io/cocoapods/p/LPDSliderView.svg?style=flat)](http://cocoapods.org/pods/LPDSliderView)
